@@ -10,4 +10,8 @@ Competition opportunities are available for those who are interested.  Members m
 # Contact Us
 Instagram: [@vbadultgymnasticsclub](https://www.instagram.com/vbadultgymnasticsclub/)
 Facebook: [TBD]()
-<form action="http://formspree.io/vbadultgymnasticsclub@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+<form action="https://formspree.io/f/xoqrgpjw" method="post">
+  <label for="email">Your Email</label>
+  <input name="Email" id="email" type="email">
+  <button type="submit">Submit</button>
+</form>
