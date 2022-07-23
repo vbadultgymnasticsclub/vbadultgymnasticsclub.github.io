@@ -9,7 +9,7 @@ Virginia Beach Adult Gymnastics Club is an adult gymnastics team for anyone age 
 
 We encourage a fun, low-pressure, supportive team environment.   All skill levels are welcome!  We practice on Wednesdays and Fridays from 9-11pm at Hurricane Gymnastics' open gym session. If you are interested, please send us an email at [vbadultgymnasticsclub@gmail.com](mailto:vbadultgymnasticsclub@gmail.com) and also see our [Join the Team](https://vbadultgymnasticsclub.github.io/join-the-team) page!
 
-Competition opportunities are available for those who are interested.  Members may compete in men’s developmental (for beginners), modified Level 9,  modified NCAA and/or women’s developmental (for beginners), Level 7, Level 8, or Level 9.   Meets are through the National Association of Intercollegiate Gymnastics Clubs (NAIGC). Please see the [Competitions](https://vbadultgymnasticsclub.github.io/competitions) page for more information.
+Competition opportunities are available for those who are interested.  Members may compete in men’s developmental (for beginners), modified Level 9,  modified NCAA and/or women’s developmental (for beginners), Level 6, Level 7, Level 8, or Level 9.   Meets are through the National Association of Intercollegiate Gymnastics Clubs (NAIGC). Please see the [Competitions](https://vbadultgymnasticsclub.github.io/competitions) page for more information.
 
 # Contact Us
 Email: [vbadultgymnasticsclub@gmail.com](mailto:vbadultgymnasticsclub@gmail.com)
