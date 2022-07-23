@@ -1,9 +1,6 @@
 <!---layout: page
 title: "Competitions"
 permalink: /competitions--->
-- [Home](https://vbadultgymnasticsclub.github.io)
-- [Join the Team](https://vbadultgymnasticsclub.github.io/join-the-team)
-- [Competitions](https://vbadultgymnasticsclub.github.io/competitions)
 
 # Competitions
 
