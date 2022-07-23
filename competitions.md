@@ -1,6 +1,10 @@
 <!---layout: page
 title: "Competitions"
 permalink: /competitions--->
+- [Home](https://vbadultgymnasticsclub.github.io)
+- [Join the Team](https://vbadultgymnasticsclub.github.io/join-the-team)
+- [Competitions](https://vbadultgymnasticsclub.github.io/competitions)
+
 # Competitions
 
 Currently, the NAIGC offers competition opportunities for adults of all levels. Competition experience is not required to join the club. Competitions are fun and low-key but are not mandatory for team members.
