@@ -1,7 +1,7 @@
 ![FF54FCD6-7B60-41F3-8993-A90065AD8853 (1)](https://user-images.githubusercontent.com/108369432/180617739-968e173c-7bb4-4aaf-9256-3db3ecc70489.JPG)
 
 
-Virginia Beach Adult Gymnastics Club is an adult gymnastics team for anyone age 18+.   Our goal is to provide opportunities for adults to participate in gymnastics.
+Virginia Beach Adult Gymnastics Club is an adult gymnastics team for anyone age 18+.   Our goal is to provide opportunities for adults to participate in gymnastics. We are located in the Hampton Roads area, Virginia.
 
 We encourage a fun, low-pressure, supportive team environment.   All skill levels are welcome!  We practice on Wednesdays and Fridays from 9-11pm at Hurricane Gymnastics' open gym session. If you are interested, please send us an email at [vbadultgymnasticsclub@gmail.com](mailto:vbadultgymnasticsclub@gmail.com) and also see our [Join the Team](https://vbadultgymnasticsclub.github.io/join-the-team) page!
 
