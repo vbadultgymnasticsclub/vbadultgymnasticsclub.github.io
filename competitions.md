@@ -6,9 +6,9 @@ permalink: /competitions--->
 
 Currently, the NAIGC offers competition opportunities for adults of all levels. Competition experience is not required to join the club. Competitions are fun and low-key but are not mandatory for team members.
 
-Men may choose to compete in Developmental, Level 9, or NCAA.   Men’s artistic gymnastics (MAG) competition rules and code of points can be found [here](https://naigc.org/mens-rules/).
+Men may choose to compete in Developmental, modified Level 9, or modified NCAA.   Men’s artistic gymnastics (MAG) competition rules and code of points can be found [here](https://naigc.org/mens-rules/).
 
-Women may choose to compete in Developmental,Level 6, Level 7, Level 8, or Level 9.  Women’s artistic gymnastics (WAG) competition rules and code of points can be found [here](https://naigc.org/womens-rules/).
+Women may choose to compete in Developmental, Level 6, Level 7, Level 8, or Level 9.  Women’s artistic gymnastics (WAG) competition rules and code of points can be found [here](https://naigc.org/womens-rules/).
 
 The NAIGC allows men to compete women's events and vice versa. An individual may compete in Unified Artistic Gymnastics (UAG). The goal of Unified Artistic Gymnastics (UAG) and Decathlon is to open all events in the sport of gymnastics to any participant regardless of gender or sex. Broadly speaking, under Unified Gymnastics a gymnast may compete in any combination of events from among the ten available Artistic Gymnastics apparatus (WAG: Vault/Uneven Bars/Balance Beam/Floor, MAG: Floor/Pommel Horse/Rings/Vault/Parallel Bars/High Bar). More information on UAG can be found [here](https://naigc.org/uag-rules/).
 
