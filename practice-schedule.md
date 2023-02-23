@@ -2,7 +2,7 @@
 title: "Practice Schedule"
 permalink: /practice-schedule--->
 
-#Practice Schedule
+# Practice Schedule
 
 Hurricane Gymnastics facility has been kind enough to host our team during open gym sessions to accomodate our team practices. Hurricane Gymnastics offers open gyms three times a week, one of which is an adult only (18+) practice. Please see the below practice schedule, update as of Feburary 2023:
 
