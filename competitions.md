@@ -17,6 +17,6 @@ The NAIGC allows men to compete women's events and vice versa. This is the Unifi
 
 ## Competition Leotards
 Our competition leotard is available for optional purchase. You are allowed to wear any form-fitting sportswear during NAIGC competitions, as leotards are not required for competition. However, many competitors do wear leotards and want to look "bedazzled" during competition. Our competition leotard is below. We have a wholesale team account through GK Elite, please contact us about placing an order for your competition leotard. It takes roughly 4-6 weeks to before it's ready to ship as it is custom. The price is a little under $200 per leotard.
-![leotard](https://user-images.githubusercontent.com/108369432/225927499-76217078-3814-460e-8f02-84580c6ab07e.PNG)
+<img src="https://user-images.githubusercontent.com/108369432/225927499-76217078-3814-460e-8f02-84580c6ab07e.PNG" width="50%" height="50%" />
 
 
