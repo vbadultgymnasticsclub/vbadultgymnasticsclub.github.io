@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/108369432/225924509-e9886d30-56f1-4d1b-8d4e-3eff9b26594c.jpg" width="50%" />
-<img src="[https://user-images.githubusercontent.com/108369432/225924509-e9886d30-56f1-4d1b-8d4e-3eff9b26594c.jpg](https://user-images.githubusercontent.com/108369432/225924539-667de481-c5aa-4c4e-a5a1-412f92b4a192.JPG)" width="50%" />
+<img src="https://user-images.githubusercontent.com/108369432/225924539-667de481-c5aa-4c4e-a5a1-412f92b4a192.JPG" width="50%" />
 
 Virginia Beach Adult Gymnastics Club is an adult gymnastics team for anyone age 18+.   Our goal is to provide opportunities for adults to participate in gymnastics. We are located in the Hampton Roads area, Virginia. There are no try-outs or commitments required, you just show up to practice! We have many members who come to practice regularly though and we offer optional competitions through the NAIGC. Please see [Practice Schedule](https://vbadultgymnasticsclub.github.io/practice-schedule) to see when you can start coming in!
 
