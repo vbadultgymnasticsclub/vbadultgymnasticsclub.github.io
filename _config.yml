@@ -1,3 +1,13 @@
 theme: jekyll-theme-cayman
 title: Welcome to Virginia Beach Adult Gymnastics Club (VBAGC)!
 description: A competitive adult gymnastics team for all ages, genders, and skill levels
+lsi: false
+safe: true
+source: vbadultgymnasticsclub.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
