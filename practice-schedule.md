@@ -24,3 +24,5 @@ Hurricane Gymnastics
 
 Wednesdays tend to be calmer and less crowded, as most of the kids are not coming mid-week, and of course Sundays as well with adults one. Fridays tend to be busier. Please disregard the fact that Hurricane Gymnastics may say "closed" on Google when searching for hours of operation during these windows. For questions regarding whether we have practices during holidays or other times, please DM us on Instagram to ask, or email us. Team announcements such as closures are made in our team GroupMe chat, but if it is your first time at the gym or you haven't been added to the group yet and you are unsure about practice, just send us a message.
 
+![7D4BAD95-A844-4934-8490-6A0674368DD8](https://user-images.githubusercontent.com/108369432/225925779-e3eb7c15-1de6-46ab-95ba-3aefc743201c.jpg)
+
