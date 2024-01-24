@@ -19,7 +19,7 @@ All ages
 Typicall most crowded
 
 Sundays
-7:30-9:30pm
+7:00-9:00pm
 18+ only, VBAGC owns this open gym time
 Not crowded
 
