@@ -10,17 +10,17 @@ The Hurricane Gymnastics facility in Chesapeake, VA has been kind enough to host
 
 Wednesdays
 9-11pm
-All ages
+Open to public, all ages, no VBAGC membership required to attend, no led stretch/warmup
 Typically not too crowded
 
 Fridays
 9-11pm
-All ages
+Open to public, all ages, no VBAGC membership required to attend, no led stretch/warmup
 Typicall most crowded
 
 Sundays
 7:00-9:00pm
-18+ only, VBAGC owns this open gym time
+18+ only, VBAGC paid members only
 Not crowded
 
 Location:
