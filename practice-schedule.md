@@ -2,6 +2,9 @@
 title: "Practice Schedule"
 permalink: /practice-schedule--->
 
+# JULY 2024 ANNOUNCEMENT
+Due to unforeseen circumstances to our host gym, Hurricane Gymnastics, we are transitioning to a new practice space very soon! Please reach out to us via email to confirm your first practice and make sure you come to the right location!
+
 # Practice Schedule
 
 All of our practices are open gym format which means we do not have a coach and the atmosphere is quite relaxed and open. Many of us were coaches in the past and/or gymnasts in the past though so we are always happy to help each other out with tips. 
