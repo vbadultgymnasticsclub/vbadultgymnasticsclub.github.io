@@ -11,6 +11,10 @@ We encourage all gymnasts, young or old, beginner or experienced, and all gender
 Competition opportunities are available for those who are interested.  Members may compete in men’s JO Level 7, 9, and modified NCAA and/or women’s Xcel Silver, Xcel Platium, JO Level 8, and JO Level 9.   Meets are through the National Association of Intercollegiate Gymnastics Clubs ([NAIGC](https://naigc.org)). Please see the [Competitions](https://vbadultgymnasticsclub.github.io/competitions) page for more information.
 
 # Contact Us
+All official announcements are on our GroupMe page. Please join [here](https://groupme.com/join_group/87617300/U5zsqMLk).
+
+Phone (text preferred): (757) 206-2402
+
 Email: [vbadultgymnasticsclub@gmail.com](mailto:vbadultgymnasticsclub@gmail.com)
 
 Instagram: [@vbadultgymnasticsclub](https://www.instagram.com/vbadultgymnasticsclub/)
