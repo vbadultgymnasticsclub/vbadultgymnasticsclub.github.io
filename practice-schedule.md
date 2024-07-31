@@ -3,7 +3,7 @@ title: "Practice Schedule"
 permalink: /practice-schedule--->
 
 # JULY 2024 ANNOUNCEMENT
-Due to unforeseen circumstances to our host gym, Hurricane Gymnastics, we are transitioning to a new practice space very soon! Please reach out to us via email to confirm your first practice and make sure you come to the right location!
+Due to unforeseen circumstances to our host gym, Hurricane Gymnastics, we are transitioning to a new practice space very soon! Please reach out to us via email to confirm your first practice and make sure you come to the right location! Please also join our GroupMe chat, which is the official location for announcements and team discussions [here](https://groupme.com/join_group/87617300/U5zsqMLk).
 
 # Practice Schedule
 
