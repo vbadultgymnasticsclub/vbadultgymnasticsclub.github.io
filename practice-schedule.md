@@ -30,8 +30,7 @@ Location:
 Hurricane Gymnastics
 409 Network Station, Chesapeake, VA 23320
 
-Wednesdays tend to be calmer and less crowded, as most of the kids are not coming mid-week, and of course Sundays as well with adults only one. Fridays tend to be busier. Please disregard the fact that Hurricane Gymnastics may say "closed" on Google when searching for hours of operation during these windows. For announcements regarding closures due to weather, holidays, or other reasons, we wil post these on the public Instagram page. Other team discussions such as meet logistics and other relevant things can be found in the team GroupMe chat. You can join here 
-![IMG_7135](https://github.com/vbadultgymnasticsclub/vbadultgymnasticsclub.github.io/assets/108369432/49790327-f01e-4715-9887-179b20af04d3)
+Wednesdays tend to be calmer and less crowded, as most of the kids are not coming mid-week, and of course Sundays as well with adults only one. Fridays tend to be busier. Please disregard the fact that Hurricane Gymnastics may say "closed" on Google when searching for hours of operation during these windows. For announcements regarding closures due to weather, holidays, or other reasons, we wil post these on the public Instagram page. Other team discussions such as meet logistics and other relevant things can be found in the team GroupMe chat. You can join [here](https://groupme.com/join_group/87617300/U5zsqMLk).
 
 We are excited to hear from you! All ages, genders, and skill levels are welcome. This is a very casual and non-judgmental environment. Our goal is to enable opportunities for adult gymnastics!
 
