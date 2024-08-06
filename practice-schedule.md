@@ -2,8 +2,9 @@
 title: "Practice Schedule"
 permalink: /practice-schedule--->
 
-# JULY 2024 ANNOUNCEMENT
-Due to unforeseen circumstances to our host gym, Hurricane Gymnastics, we are transitioning to a new practice space very soon! Please reach out to us via email to confirm your first practice and make sure you come to the right location! Please also join our GroupMe chat, which is the official location for announcements and team discussions [here](https://groupme.com/join_group/87617300/U5zsqMLk) and fill out [the membership form](https://docs.google.com/forms/d/e/1FAIpQLSfuBSpcej4FysbI1azOCZ01WQgxU7Z7au8ZBd3OZHnkV_C3qw/viewform?usp=sf_link) for the time being.
+# AUGUST 2024 ANNOUNCEMENT
+Due to unforeseen circumstances to our host gym, we have lost our current gym space (see [WAVY news article](https://wavy.com/video/adult-gymnastics-club-looking-for-new-facility-following-suspension-of-open-gym-practices/?fbclid=IwZXh0bgNhZW0CMTAAAR1CVcEupfZTGgeOBbRumO7eN3GKB85Dt0QRpvf1KhqoYOaPdE2wDw5qORk_aem_bv5FodQa_YgChUhxwTo95g)). However, we are still very much still operating as a team and diligently talking with other gyms to secure a new practice space! We are hoping to have a new practice space this Fall. In the meantime, please join our GroupMe chat, which is the official location for announcements and team discussions [here](https://groupme.com/join_group/87617300/U5zsqMLk) and fill out [the membership form](https://docs.google.com/forms/d/e/1FAIpQLSfuBSpcej4FysbI1azOCZ01WQgxU7Z7au8ZBd3OZHnkV_C3qw/viewform?usp=sf_link) so that we know you are interested and can count you in once we begin again!
+
 # Practice Schedule
 
 All of our practices are open gym format which means we do not have a coach and the atmosphere is quite relaxed and open. Many of us were coaches in the past and/or gymnasts in the past though so we are always happy to help each other out with tips. 
