@@ -13,8 +13,6 @@ Competition opportunities are available for those who are interested.  Members m
 # Contact Us
 All official announcements are on our GroupMe page. Please join [here](https://groupme.com/join_group/87617300/U5zsqMLk).
 
-Phone (text preferred): (757) 206-2402
-
 Email: [vbadultgymnasticsclub@gmail.com](mailto:vbadultgymnasticsclub@gmail.com)
 
 Instagram: [@vbadultgymnasticsclub](https://www.instagram.com/vbadultgymnasticsclub/)
