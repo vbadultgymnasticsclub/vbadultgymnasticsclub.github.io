@@ -28,7 +28,8 @@ We are excited to hear from you! All ages, genders, and skill levels are welcome
 We accept check, cash, Zelle, PayPal (5% service fee), Venmo (5% service fee), and Cashapp (5% service fee). Please note the forms of payment that have an additional service fee that you would have to pay. Checks should be made out to "Virginia Beach Adult Gymnastics Club". All monthly payments should be paid before your first practice of the month. 
 
 Zelle: vbadultgymnasticsclub@gmail.com
-![IMG_1888](https://github.com/user-attachments/assets/b5b8b6f1-2c74-4985-ae10-0d79055584cd)
+
+![IMG_1888](https://github.com/user-attachments/assets/b5b8b6f1-2c74-4985-ae10-0d79055584cd =250x250)
 
 
 
