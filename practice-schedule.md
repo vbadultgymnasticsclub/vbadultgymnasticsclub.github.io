@@ -2,6 +2,7 @@
 title: "Practice Schedule"
 permalink: /practice-schedule--->
 
+<img src="https://user-images.githubusercontent.com/108369432/225925779-e3eb7c15-1de6-46ab-95ba-3aefc743201c.jpg" width="50%" height="50%" />
 # Practice Schedule
 
 All of our practices are open gym format which means we do not have a coach and the atmosphere is quite relaxed and open. Many of us were coaches in the past and/or gymnasts in the past though so we are always happy to help each other out with tips. 
@@ -30,5 +31,3 @@ We accept check, cash, Zelle, PayPal (5% service fee), Venmo (5% service fee), a
 Zelle: vbadultgymnasticsclub@gmail.com
 
 <img src="https://github.com/user-attachments/assets/b5b8b6f1-2c74-4985-ae10-0d79055584cd" width="50%" height="50%" />
-
-<img src="https://user-images.githubusercontent.com/108369432/225925779-e3eb7c15-1de6-46ab-95ba-3aefc743201c.jpg" width="50%" height="50%" />
