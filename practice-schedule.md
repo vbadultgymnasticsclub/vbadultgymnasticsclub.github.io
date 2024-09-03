@@ -24,4 +24,12 @@ Please join our GroupMe [here](https://groupme.com/join_group/87617300/U5zsqMLk)
 
 We are excited to hear from you! All ages, genders, and skill levels are welcome. This is a very casual and non-judgmental environment. Our goal is to enable opportunities for adult gymnastics!
 
+# How to Pay
+We accept check, cash, Zelle, PayPal (5% service fee), Venmo (5% service fee), and Cashapp (5% service fee). Please note the forms of payment that have an additional service fee that you would have to pay. Checks should be made out to "Virginia Beach Adult Gymnastics Club". All monthly payments should be paid before your first practice of the month. 
+
+Zelle: vbadultgymnasticsclub@gmail.com
+![IMG_1888](https://github.com/user-attachments/assets/b5b8b6f1-2c74-4985-ae10-0d79055584cd)
+
+
+
 <img src="https://user-images.githubusercontent.com/108369432/225925779-e3eb7c15-1de6-46ab-95ba-3aefc743201c.jpg" width="50%" height="50%" /><img src="https://user-images.githubusercontent.com/108369432/225925996-2b4f6a98-b6cc-483a-9331-f029f256f783.jpg" width="50%" height="50%" />
