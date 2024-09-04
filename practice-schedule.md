@@ -33,4 +33,6 @@ We accept check, cash, Zelle, PayPal (5% service fee), Venmo (5% service fee), a
 
 Zelle: vbadultgymnasticsclub@gmail.com
 
+(as of 9/4/24, our Venmo, PayPal, and CashApp forms are still being set up, they will be ready soon!)
+
 <img src="https://github.com/user-attachments/assets/b5b8b6f1-2c74-4985-ae10-0d79055584cd" width="50%" height="50%" />
