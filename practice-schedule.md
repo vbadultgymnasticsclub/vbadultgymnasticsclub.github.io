@@ -12,8 +12,11 @@ Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
 Costs:
 Trial: $15, if you decide to join the team then that payment will go toward your first month’s fees
+
 Standard Fees: $70/month for one practice per week
+
 Discounted Fees: $60/month for one practice per week. Eligible if you are a student, teacher/coach, a primary caretaker of children, active duty military, work in healthcare or if you are 50+ years old. Drops-ins for the discounted groups are $15.
+
 Drop ins: $20/practice
 
 Location:
