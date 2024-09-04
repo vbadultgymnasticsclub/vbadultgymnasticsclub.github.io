@@ -12,7 +12,7 @@ All of our practices are open gym format which means we do not have a coach and 
 
 We are required to leave the gym how we found it. This means putting any mats or equipment back neatly the way it was left at the beginning of practice. We have a rental agreement with our host facility, World Class, and it is important that are respectful of their space and belongings.
 
-You are required to sign a waiver on your first practice stating that you understand the risks of doing gymnastics and practicing in an open gym environment with no coach and that you will not hold VBAGC accountable for any injuries.
+You are required to sign a waiver on your first practice stating that you understand the risks of doing gymnastics and practicing in an open gym environment with no coach and that you will not hold VBAGC accountable for any injuries. Please print and sign [the waiver](https://docs.google.com/document/d/1ThH51oK66MFMfpiMsASLXGLkmXcbsNau/edit?usp=sharing&ouid=108086916723310005087&rtpof=true&sd=true) and bring it with you to your first practice.
 
 # Cost Schedule
 <b>Trial</b>: $15, if you decide to join the team then that payment will go toward your first month’s fees
