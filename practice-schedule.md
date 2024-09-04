@@ -10,7 +10,7 @@ All of our practices are open gym format which means we do not have a coach and 
 
 Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
-# Cost Schedule:
+# Cost Schedule
 <b>Trial</b>: $15, if you decide to join the team then that payment will go toward your first month’s fees
 
 <b>Standard Fees</b>: $70/month for one practice per week
@@ -19,7 +19,7 @@ Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
 <b>Drop ins</b>: $20/practice
 
-<b>Location</b>:
+# Location
 World Class Gymnastics Too
 5196 Nansemond Pkwy
 Suffolk, VA 23435
