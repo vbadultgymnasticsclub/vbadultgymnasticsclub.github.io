@@ -20,7 +20,9 @@ All of our practices are open gym format which means we do not have a coach and 
 
 # Location
 World Class Gymnastics Too
+
 5196 Nansemond Pkwy
+
 Suffolk, VA 23435
 
 Please join our GroupMe [here](https://groupme.com/join_group/87617300/U5zsqMLk), it is our official channel for discussing team-related events such as practice modifications/closures and meets!
