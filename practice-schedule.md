@@ -5,10 +5,9 @@ permalink: /practice-schedule--->
 <img src="https://user-images.githubusercontent.com/108369432/225925779-e3eb7c15-1de6-46ab-95ba-3aefc743201c.jpg" width="50%" height="50%" />
 
 # Practice Schedule
+Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
 All of our practices are open gym format which means we do not have a coach and the atmosphere is quite relaxed and free-form. We do intros, stretch and warm up together then you are on your own to work on drills or skills on any apparatus. Many of us are experienced gymnasts and/or coaches though, and we have a great team atmosphere where we are always willing to help each other out with tips and feedback.
-
-Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
 # Cost Schedule
 <b>Trial</b>: $15, if you decide to join the team then that payment will go toward your first month’s fees
