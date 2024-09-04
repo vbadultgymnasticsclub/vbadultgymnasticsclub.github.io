@@ -24,9 +24,7 @@ All of our practices are open gym format which means we do not have a coach and 
 5196 Nansemond Pkwy
 Suffolk, VA 23435
 
-Please join our GroupMe [here](https://groupme.com/join_group/87617300/U5zsqMLk), it is our official channel for discussing team-related events such as practice modifications/closures and meets!
-
-We are excited to hear from you! All ages, genders, and skill levels are welcome. This is a very casual and non-judgmental environment. Our goal is to enable opportunities for adult gymnastics!
+Please join our GroupMe [here](https://groupme.com/join_group/87617300/U5zsqMLk), we announce all practice closures and modifications there.
 
 # How to Pay
 We accept check, cash, Zelle, PayPal (5% service fee), Venmo (5% service fee), and Cashapp (5% service fee). Please note the forms of payment that have an additional service fee that you would have to pay. Checks should be made out to "Virginia Beach Adult Gymnastics Club". All monthly payments should be paid before your first practice of the month. 
