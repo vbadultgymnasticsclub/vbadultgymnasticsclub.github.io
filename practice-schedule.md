@@ -19,7 +19,8 @@ All of our practices are open gym format which means we do not have a coach and 
 <b>Drop ins</b>: $20/practice
 
 # Location
-World Class Gymnastics Too
+<b>World Class Gymnastics Too</b>
+
 5196 Nansemond Pkwy
 Suffolk, VA 23435
 
