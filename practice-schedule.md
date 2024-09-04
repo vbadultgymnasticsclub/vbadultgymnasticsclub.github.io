@@ -6,7 +6,7 @@ permalink: /practice-schedule--->
 
 # Practice Schedule
 
-All of our practices are open gym format which means we do not have a coach and the atmosphere is quite relaxed and open. Many of us were coaches in the past and/or gymnasts in the past though so we are always happy to help each other out with tips. 
+All of our practices are open gym format which means we do not have a coach and the atmosphere is quite relaxed and free-form. We do intros, stretch and warm up together then you are on your own to work on drills or skills on any apparatus. Many of us are experienced gymnasts and/or coaches though, and we have a great team atmosphere where we are always willing to help each other out with tips and feedback.
 
 Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
