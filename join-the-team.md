@@ -9,5 +9,7 @@ If you would like to join our team, please send us a message via email (vbadultg
 
 Please also fill out [the membership interest form](https://docs.google.com/forms/d/e/1FAIpQLSfuBSpcej4FysbI1azOCZ01WQgxU7Z7au8ZBd3OZHnkV_C3qw/viewform?usp=sf_link) and join our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) (this is our official channel for team announcements and discussions).
 
+Please print (one page, front and back) and sign [our waiver](https://docs.google.com/document/d/1ThH51oK66MFMfpiMsASLXGLkmXcbsNau/edit?usp=sharing&ouid=108086916723310005087&rtpof=true&sd=true) and bring it with you to your first practice.
+
 
 
