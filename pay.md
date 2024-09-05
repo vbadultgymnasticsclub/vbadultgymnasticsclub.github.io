@@ -1,4 +1,11 @@
 # Cost Schedule
+<b>Trial</b>: $15, if you decide to join the team then that payment will go toward your first month’s fees
+
+<b>Standard Fees</b>: $70/month for one practice per week
+
+<b>Discounted Fees</b>: $60/month for one practice per week. Eligible if you are a student, teacher/coach, a primary caretaker of children, active duty military, work in healthcare or if you are 50+ years old. Drops-ins for the discounted groups are $15.
+
+<b>Drop ins</b>: $20/practice
 
 # How to Pay
 We accept check, cash, Zelle, PayPal (5% service fee), Venmo (5% service fee), and Cashapp (5% service fee). Please note the forms of payment that have an additional service fee that you would have to pay. Checks should be made out to "Virginia Beach Adult Gymnastics Club". All monthly payments should be paid before your first practice of the month. 
