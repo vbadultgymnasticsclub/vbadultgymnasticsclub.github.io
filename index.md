@@ -6,14 +6,5 @@ We encourage a fun, low-pressure, supportive team environment. Competitions are 
 
 Our team is an adult community club that is part of the [National Association of Intercollegiate Gymnastics Clubs (NAIGC)](https://naigc.org/). The motto of NAIGC is "for the love of the sport". This means that we do gymnastics purely for the love of it, regardless of our current skill level, our past skill level,  our gender, our age, etc. NAIGC offers various competition levels for both men's and women's events, meaning that there's something for everyone. Our goal is to welcome team members who were ex-level 10 gymnasts, as well as team members who may have only dabbled in recreational gymnastics as a kid, and everyone in between. We foster a non-judgmental and supportive team environment during practices. Please see the [Competitions](https://vbadultgymnasticsclub.github.io/competitions) page for more information.
 
-# Contact Us
-All official announcements and team discussions are on our GroupMe page. Please join [here](https://groupme.com/join_group/87617300/U5zsqMLk).
-
-Email: [vbadultgymnasticsclub@gmail.com](mailto:vbadultgymnasticsclub@gmail.com)
-
-Instagram: [@vbadultgymnasticsclub](https://www.instagram.com/vbadultgymnasticsclub/)
-
-Facebook: [Virginia Beach Adult Gymnastics Club](https://facebook.com/vbadultgymnasticsclub)
-
 ![IMG_1055](https://user-images.githubusercontent.com/108369432/225924557-1597dea0-0018-4836-b6a7-1aed4ff6976d.JPG)
 
