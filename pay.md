@@ -1,3 +1,6 @@
+<!---layout: page
+title: "Pay"
+permalink: /pay--->
 # Cost Schedule
 <b>Trial</b>: $15, if you decide to join the team then that payment will go toward your first month’s fees
 
