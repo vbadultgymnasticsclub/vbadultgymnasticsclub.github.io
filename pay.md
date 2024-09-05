@@ -1,11 +1,12 @@
 # Cost Schedule
 
 # How to Pay
-We accept cash, check, and Zelle with no service charge.
-![IMG_1888](https://github.com/user-attachments/assets/18e51555-7628-44e7-a3c9-4bcd21300ae6)
+We accept check, cash, Zelle, PayPal (5% service fee), Venmo (5% service fee), and Cashapp (5% service fee). Please note the forms of payment that have an additional service fee that you would have to pay. Checks should be made out to "Virginia Beach Adult Gymnastics Club". All monthly payments should be paid before your first practice of the month. 
 
+Zelle: vbadultgymnasticsclub@gmail.com
 
+Square: [Click here](https://square.link/u/Ru9RugPL) to pay for the Drop-in fee
 
-We accept online payments through Square, which allows you to pay via credit card, Apple Pay, Google Pay, and CashApp which includes a 5% service fee
+(as of 9/4/24, our Venmo, PayPal, and CashApp forms are still being set up, they will be ready soon!)
 
-[ ![Picture description]([https://i.imgur.com/Yd58y3g.jpeg](https://github.com/user-attachments/assets/a5af2876-5d91-4afa-95f1-de4b33eaa203))]([https://google.com](https://square.link/u/Ru9RugPL))
+<img src="https://github.com/user-attachments/assets/b5b8b6f1-2c74-4985-ae10-0d79055584cd" width="50%" height="50%" />
