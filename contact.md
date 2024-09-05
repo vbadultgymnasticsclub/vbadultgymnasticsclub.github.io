@@ -1,3 +1,6 @@
+<!---layout: page
+title: "Contact"
+permalink: /contact--->
 # Contact Us
 All official announcements and team discussions are on our GroupMe page. Please join [here](https://groupme.com/join_group/87617300/U5zsqMLk).
 
