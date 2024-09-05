@@ -5,4 +5,4 @@ We accept cash, check, and Zelle with no service charge.
 
 We accept online payments through Square, which allows you to pay via credit card, Apple Pay, Google Pay, and CashApp which includes a 5% service fee
 
-[![Pay for a Drop-in]][[Link](https://square.link/u/Ru9RugPL)]
+[ ![Picture description]([https://i.imgur.com/Yd58y3g.jpeg](https://github.com/user-attachments/assets/a5af2876-5d91-4afa-95f1-de4b33eaa203))]([https://google.com](https://square.link/u/Ru9RugPL))
