@@ -7,6 +7,15 @@ permalink: /practice-schedule--->
 # Practice Schedule
 Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
+# Cost Schedule
+<b>Trial</b>: $15, if you decide to join the team then that payment will go toward your first month’s fees
+
+<b>Standard Fees</b>: $70/month for one practice per week
+
+<b>Discounted Fees</b>: $60/month for one practice per week. Eligible if you are a student, teacher/coach, a primary caretaker of children, active duty military, work in healthcare or if you are 50+ years old. Drops-ins for the discounted groups are $15.
+
+<b>Drop ins</b>: $20/practice
+
 # Practice Format
 All of our practices are open gym format which means we do not have a coach and the atmosphere is quite relaxed and free-form. At the beginning of each practice, you will check in via the QR code at the front first and pay any drop-in fees. We do intros, stretch and warm up together then you are on your own to work on drills or skills on any apparatus. Many of us are experienced gymnasts and/or coaches though, and we have a great team atmosphere where we are always willing to help each other out with tips and feedback.
 
