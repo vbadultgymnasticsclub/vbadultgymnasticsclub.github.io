@@ -13,13 +13,13 @@ Zelle: vbadultgymnasticsclub@gmail.com
 We also accept online Square payments (which will process payments via credit card, Apple Pay, Google Pay, and CashApp) which include a 5% service charge per transaction. See below for Square payment links:
 
 Trials (first timers only):
-- [Click here]() to pay for the trial pricing
+- [Click here](https://square.link/u/ucWyyqBL) to pay for the trial pricing
 
 Drop ins:
 - [Click here](https://square.link/u/Ru9RugPL) to pay for the $20 Drop-in fee
 
 Monthly payments:
-- [Click here](https://square.link/u/Ru9RugPL) to pay monthly for months with 4 Sundays
+- [Click here](https://square.link/u/XpO6LrDI) to pay monthly for months with 4 Sundays
 - [Click here](https://square.link/u/7zpzmD9Q) to pay monthly for for months with 4 Sundays (discounted group, approval required)
 - [Click here](https://square.link/u/Gvg9FSeI) to pay monthly for months with 5 Sundays 
 - [Click here](https://square.link/u/9yVb66ld) to pay monthly for months with 5 Sundays (discounted group, approval required)
