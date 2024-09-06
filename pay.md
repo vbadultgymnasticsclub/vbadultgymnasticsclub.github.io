@@ -1,15 +1,6 @@
 <!---layout: page
 title: "Pay"
 permalink: /pay--->
-# Cost Schedule
-<b>Trial</b>: $15, if you decide to join the team then that payment will go toward your first month’s fees
-
-<b>Standard Fees</b>: $70/month for one practice per week
-
-<b>Discounted Fees</b>: $60/month for one practice per week. Eligible if you are a student, teacher/coach, a primary caretaker of children, active duty military, work in healthcare or if you are 50+ years old. Drops-ins for the discounted groups are $15.
-
-<b>Drop ins</b>: $20/practice
-
 # How to Pay
 We accept check, cash and Zelle with no service charge.
 
