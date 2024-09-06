@@ -24,6 +24,8 @@ Monthly payments:
 - [Click here](https://square.link/u/Gvg9FSeI) to pay monthly for months with 5 Sundays 
 - [Click here](https://square.link/u/9yVb66ld) to pay monthly for months with 5 Sundays (discounted group, approval required)
 
+Custom payments:
+- [Click here](https://square.link/u/AZL4171H) if our officers asked you to pay a custom price for something specific, you will enter the price given in the promp
 
 Our Venmo and PayPal forms of payment are still being set up, they will be ready soon! Those will also have a 5% service charge
 
