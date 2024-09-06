@@ -8,7 +8,7 @@ Checks should be made out to "Virginia Beach Adult Gymnastics Club". All monthly
 
 Zelle: vbadultgymnasticsclub@gmail.com
 
-<img src="https://github.com/user-attachments/assets/b5b8b6f1-2c74-4985-ae10-0d79055584cd" width="50%" height="50%" />
+<img src="https://github.com/user-attachments/assets/b5b8b6f1-2c74-4985-ae10-0d79055584cd" width="20%" height="20%" />
 
 We also accept online Square payments (which will process payments via credit card, Apple Pay, Google Pay, and CashApp) which include a 5% service charge per transaction. See below for Square payment links:
 - [Click here](https://square.link/u/Ru9RugPL) to pay for the $20 Drop-in fee
