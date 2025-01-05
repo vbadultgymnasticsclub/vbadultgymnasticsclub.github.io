@@ -4,7 +4,7 @@ permalink: /pay--->
 # How to Pay
 We accept check, cash and Zelle with no service charge.
 
-Checks should be made out to "Virginia Beach Adult Gymnastics Club". All monthly payments should be paid before your first practice of the month.
+Checks should be made out to "Virginia Beach Adult Gymnastics Club". You may pay per practice as a "drop in" or monthly (for a small discount). All monthly payments should be paid before your first practice of the month.
 
 Zelle: vbadultgymnasticsclub@gmail.com
 
@@ -27,6 +27,6 @@ Monthly payments:
 Custom payments:
 - [Click here](https://square.link/u/AZL4171H) if our officers asked you to pay a custom price for something specific, you will enter the price given in the promp
 
-Our Venmo and PayPal forms of payment are still being set up, they will be ready soon! Those will also have a 5% service charge
+Our Venmo is @vbagc! Venmo charges a 1.9% service fee + $0.10 charge, so if you must pay by Venmo, please do the math on how much you need to pay and then send that amount. The app does not allow us to set up pre-calculated charges on our end, unfortunately.
 
 
