@@ -10,7 +10,7 @@ To join the team for your first practice:
 
 - Please join our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk). This is our official channel for team announcements and discussions. We will also announce practice closures here.
 
-- Please read, acknowldge, and fill out our club waiver form [here](https://docs.google.com/forms/d/e/1FAIpQLSdMvfkJ21OISbY_ON44MipwZDLfCoWonHfgpJlznMz_Gwzkeg/viewform). When you come to your first practice, our gym facility also requires that you need to fill out one of their (different) waivers as well. This will be done on a paper copy that we will provide.
+- Please read, acknowldge, and fill out our club waiver form [here](https://docs.google.com/forms/d/e/1FAIpQLSdMvfkJ21OISbY_ON44MipwZDLfCoWonHfgpJlznMz_Gwzkeg/viewform). When you come to your first practice, our gym facility also requires that you need to fill out a second waiver as well, specific to the gym facility. This will be done on a paper copy that we will provide.
 
  - Please pay for your first practice at trial pricing. You may do that ahead of time [here][(https://checkout.square.site/merchant/MLP80EWDW4CD5/checkout/AP6UEU6QKDSXTDMAJH37GEC2) or pay onsite when you get to your first practice. If you are paying electronically, it is easier for everyone to just pay ahead of time. We accept cash and check as well. See our [payment page](https://vbadultgymnasticsclub.github.io/pay) for details.
 
