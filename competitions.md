@@ -10,8 +10,8 @@ The NAIGC offers competition in Women's Artistic Gymnastics (WAG), Men's Artisti
 
 You’ll often find us competing at the William & Mary Invitational in Williamsburg and other events hosted by NAIGC-affiliated colleges throughout Virginia and the Mid-Atlantic region. Please see the [NAIGC list of sanctioned events](https://naigc.org/upcoming-events/) for upcoming meets for this season.
 
-<img src="https://user-images.githubusercontent.com/108369432/225926597-744e8fe1-fe19-4c89-b8af-1b8b4540019e.JPG" width="50%" height="50%" /><img src="https://user-images.githubusercontent.com/108369432/180622367-dc202018-a138-4b1a-b68a-e9fe7141d93e.JPG" width="50%" height="50%" />
-<img src="https://user-images.githubusercontent.com/108369432/180622373-a5a16b42-fbf8-4602-93b7-58c01f9e90ef.jpg" width="50%" height="50%" /><img src="https://user-images.githubusercontent.com/108369432/180622379-02aee2b5-6017-4da3-9773-d32b460ae6a3.jpg" width="50%" height="50%" /><img src="https://github.com/user-attachments/assets/72695b34-25e7-4f5e-912a-480b4c337d77" width="50%" height="50%" /><img src="https://github.com/user-attachments/assets/8a8f86b0-c433-48da-b5ce-1be0e4e0e8a8" width="50%" height="50%" />
+<img src="https://github.com/user-attachments/assets/72695b34-25e7-4f5e-912a-480b4c337d77" width="50%" height="50%" /><img src="https://github.com/user-attachments/assets/8a8f86b0-c433-48da-b5ce-1be0e4e0e8a8" width="50%" height="50%" /><img src="https://user-images.githubusercontent.com/108369432/225926597-744e8fe1-fe19-4c89-b8af-1b8b4540019e.JPG" width="50%" height="50%" /><img src="https://user-images.githubusercontent.com/108369432/180622367-dc202018-a138-4b1a-b68a-e9fe7141d93e.JPG" width="50%" height="50%" />
+<img src="https://user-images.githubusercontent.com/108369432/180622373-a5a16b42-fbf8-4602-93b7-58c01f9e90ef.jpg" width="50%" height="50%" /><img src="https://user-images.githubusercontent.com/108369432/180622379-02aee2b5-6017-4da3-9773-d32b460ae6a3.jpg" width="50%" height="50%" />
 
 
 
