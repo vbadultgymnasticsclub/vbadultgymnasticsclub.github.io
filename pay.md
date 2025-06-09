@@ -13,6 +13,7 @@ permalink: /pay--->
   - [Custom Payment](https://square.link)
 
 ### 💰 Direct Transfers
+- **Cash**: accepted in person at the beginning of practice
 - **Zelle**: Send payments to vbadultgymnasticsclub@gmail.com.
 - **Venmo**: @vbagc. MUST add an additional 1.9% service fee + $0.10 per transaction.
 
