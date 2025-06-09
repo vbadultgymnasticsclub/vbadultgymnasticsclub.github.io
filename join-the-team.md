@@ -9,7 +9,7 @@ We’re a welcoming, community-based adult gymnastics club open to all experienc
 ## 🕕 Practice Info
 When: Sundays, 6:30–8:30 PM
 <br/>
-Where: World Class Gymnastics Too (Suffolk, VA)
+Where: [World Class Gymnastics Too](https://maps.app.goo.gl/WeeFDnk2yMAJmSaF6) (Suffolk, VA)
 
 ## ✅ To Get Started
 Sign the [Waiver](https://docs.google.com/forms/d/e/1FAIpQLSdMvfkJ21OISbY_ON44MipwZDLfCoWonHfgpJlznMz_Gwzkeg/viewform)
