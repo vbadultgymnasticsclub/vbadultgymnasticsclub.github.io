@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/108369432/225924539-667de481-c5aa-4c4e-a5a1-412f92b4a192.JPG" width="50%" /><img src="https://user-images.githubusercontent.com/108369432/225924509-e9886d30-56f1-4d1b-8d4e-3eff9b26594c.jpg" width="50%" />
+<img src="https://user-images.githubusercontent.com/108369432/225924539-667de481-c5aa-4c4e-a5a1-412f92b4a192.JPG" width="50%" /><img src="[https://user-images.githubusercontent.com/108369432/225924509-e9886d30-56f1-4d1b-8d4e-3eff9b26594c.jpg](https://github.com/user-attachments/assets/a80ce773-41a8-47be-a213-0ef8c8500dc9)" width="50%" />
 
 We are a nonprofit community offering open gym-style practices for adults of all ages and experience levels. We meet every Sunday from 6:30–8:30 PM at World Class Gymnastics Too in Suffolk. Whether you’re returning to gymnastics after a break or trying it for the first time, everyone is welcome! There are no tryouts, and there is always capacity for new members.
 
