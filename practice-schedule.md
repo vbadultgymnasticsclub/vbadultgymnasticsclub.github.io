@@ -31,8 +31,10 @@ Suffolk, VA 23435
 
 Please join our GroupMe [here](https://groupme.com/join_group/87617300/U5zsqMLk), this is where we announce all practice closures and modifications first. Make sure you've also filled out our [membership interest form](https://docs.google.com/forms/d/e/1FAIpQLSfuBSpcej4FysbI1azOCZ01WQgxU7Z7au8ZBd3OZHnkV_C3qw/viewform?usp=sf_link), as that is how you will get announcement emails.
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/18bd03fb-f1d8-4b1d-b1c7-21b6286b73f9" style="width:25%; height:25%;" />
-</div>
+<img 
+  src="https://github.com/user-attachments/assets/18bd03fb-f1d8-4b1d-b1c7-21b6286b73f9" 
+  style="display: block; margin: 0 auto; width: 25%; height: auto;" 
+/>
+
 
 
