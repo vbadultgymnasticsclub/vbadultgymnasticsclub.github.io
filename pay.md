@@ -29,14 +29,5 @@ Custom payments:
 
 Our Venmo is @vbagc! Venmo charges a 1.9% service fee + $0.10 charge, so if you must pay by Venmo, please do the math on how much you need to pay and then send that amount. The app does not allow us to set up pre-calculated charges on our end, unfortunately.
 
-<a href="https://example.com/payment" target="_blank" style="
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #007BFF;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-  font-weight: bold;
-">Pay Now</a>
 
 
