@@ -2,8 +2,6 @@
 title: "Practice Schedule"
 permalink: /practice-schedule--->
 
-<img src="https://user-images.githubusercontent.com/108369432/225925779-e3eb7c15-1de6-46ab-95ba-3aefc743201c.jpg" width="50%" height="50%" />
-
 # Practice Schedule
 Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
@@ -32,3 +30,5 @@ See our [Pay](vbadultgymnasticsclub.github.io/pay) page on how to pay for your f
 Suffolk, VA 23435
 
 Please join our GroupMe [here](https://groupme.com/join_group/87617300/U5zsqMLk), this is where we announce all practice closures and modifications first. Make sure you've also filled out our [membership interest form](https://docs.google.com/forms/d/e/1FAIpQLSfuBSpcej4FysbI1azOCZ01WQgxU7Z7au8ZBd3OZHnkV_C3qw/viewform?usp=sf_link), as that is how you will get announcement emails.
+
+![IMG_2710](https://github.com/user-attachments/assets/18bd03fb-f1d8-4b1d-b1c7-21b6286b73f9)
