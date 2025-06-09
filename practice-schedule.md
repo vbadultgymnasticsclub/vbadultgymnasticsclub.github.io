@@ -5,6 +5,12 @@ permalink: /practice-schedule--->
 # Practice Schedule
 Sundays from 6:30-8:30pm at World Class Suffolk (one practice per week)
 
+# Location
+<b>World Class Gymnastics Too</b>
+
+5196 Nansemond Pkwy
+Suffolk, VA 23435
+
 # Cost Schedule
 <b>Trial</b>: $15, if you decide to join the team then that payment will go toward your first month’s fees
 
@@ -23,11 +29,7 @@ You are required to sign a waiver on your first practice stating that you unders
 
 See our [Pay](vbadultgymnasticsclub.github.io/pay) page on how to pay for your first trial as well as recurring practices!
 
-# Location
-<b>World Class Gymnastics Too</b>
-
-5196 Nansemond Pkwy
-Suffolk, VA 23435
+# Closures
 
 Please join our GroupMe [here](https://groupme.com/join_group/87617300/U5zsqMLk), this is where we announce all practice closures and modifications first. Make sure you've also filled out our [membership interest form](https://docs.google.com/forms/d/e/1FAIpQLSfuBSpcej4FysbI1azOCZ01WQgxU7Z7au8ZBd3OZHnkV_C3qw/viewform?usp=sf_link), as that is how you will get announcement emails.
 
