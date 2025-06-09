@@ -11,7 +11,9 @@ When: Sundays, 6:30–8:30 PM
 
 Where: [World Class Gymnastics Too](https://maps.app.goo.gl/WeeFDnk2yMAJmSaF6) (Suffolk, VA)
 
-### ✅ To Get Started
+<br />
+
+### ✅ Before your first practice
 Sign the [Waiver](https://docs.google.com/forms/d/e/1FAIpQLSdMvfkJ21OISbY_ON44MipwZDLfCoWonHfgpJlznMz_Gwzkeg/viewform)
 
 Pay the [Trial Fee](https://checkout.square.site/merchant/MLP80EWDW4CD5/checkout/AP6UEU6QKDSXTDMAJH37GEC2)
