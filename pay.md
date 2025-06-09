@@ -1,6 +1,21 @@
 <!---layout: page
 title: "Pay"
 permalink: /pay--->
+
+## Payment Methods
+
+### 💳 Online Payments
+- **Square**: Accepts credit cards, Apple Pay, Google Pay, and CashApp. Note: A 5% service fee applies.
+  - [Trial Payment](https://square.link)
+  - [Drop-in Fee](https://square.link)
+  - [Monthly Payment (4 Sundays)](https://square.link)
+  - [Monthly Payment (5 Sundays)](https://square.link)
+  - [Custom Payment](https://square.link)
+
+### 💰 Direct Transfers
+- **Zelle**: Send payments to vbadultgymnasticsclub@gmail.com.
+- **Venmo**: @vbagc. Please account for a 1.9% service fee + $0.10 per transaction.
+
 # How to Pay
 We accept check, cash and Zelle with no service charge.
 
