@@ -14,7 +14,7 @@ Drop-in each time: $20 per practice, $15 for discount group*
 
 Monthly: $70/month (one practice per week), $60/month discount group*
 
-*_students, teachers, primary caretakers, active military, healthcare workers, 50+_
+*_students, teachers, primary caretakers, active military, healthcare workers, ages 50+_
 
 ## 🧘 Practice Format
 Check in via QR code upon arrival
