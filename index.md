@@ -8,4 +8,6 @@ Before attending, please [sign our online waiver](https://docs.google.com/forms/
 
 Stay connected by [joining our GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) for all official announcements, including schedule changes and holiday closures. Follow us on Instagram [@vbadultgymnasticsclub](https://www.instagram.com/vbadultgymnasticsclub/) for updates and team highlights. We’re excited to welcome you—see you at practice!
 
-<center><img src="https://user-images.githubusercontent.com/108369432/225924539-667de481-c5aa-4c4e-a5a1-412f92b4a192.JPG" width="25%" /><img src="https://github.com/user-attachments/assets/3ad7d6dc-93f5-46f1-8945-7b40575d9d20" width="25%" /><img src="https://github.com/user-attachments/assets/7fe690ea-6927-4e44-a962-d8e95f3da6fd" width="25%" /></center>
+<center><img src="https://user-images.githubusercontent.com/108369432/225924539-667de481-c5aa-4c4e-a5a1-412f92b4a192.JPG" /></center>
+<center><img src="https://github.com/user-attachments/assets/3ad7d6dc-93f5-46f1-8945-7b40575d9d20" /></center>
+<center><img src="https://github.com/user-attachments/assets/7fe690ea-6927-4e44-a962-d8e95f3da6fd" /></center>
