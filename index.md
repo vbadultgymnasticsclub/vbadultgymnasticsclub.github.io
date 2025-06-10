@@ -11,7 +11,7 @@ is to support adults in staying active, building strength, learning new skills, 
 6:30–8:30 PM at [World Class Gymnastics Too](https://maps.app.goo.gl/MApyPnr39rzwTv716) in Suffolk, VA. Come stretch, tumble, swing, or just move at your own pace!
 
 ## 💬 Just show up
-we’re always excited to welcome new members! Don’t be shy. Most of us are adults who’ve been out of the sport for years (or decades) or new to the sport altogether, and we totally get what it’s like to start again. You’re not alone—we’re all here to have fun and support each other.
+we’re always excited to welcome new members! Don’t be shy. Most of us are adults who’ve been out of the sport for years (or decades) or new to the sport altogether, and we totally get what it’s like to start again. You’re not alone—we’re all here to have fun and support each other. Info on how to prep for your first practice [here](https://vbadultgymnasticsclub.github.io/join-the-team).
 
 <center><img src="https://user-images.githubusercontent.com/108369432/225924539-667de481-c5aa-4c4e-a5a1-412f92b4a192.JPG" /></center>
 <center><img src="https://github.com/user-attachments/assets/3ad7d6dc-93f5-46f1-8945-7b40575d9d20" /></center>
