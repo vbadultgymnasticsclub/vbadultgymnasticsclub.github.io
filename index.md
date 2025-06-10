@@ -8,7 +8,7 @@ by a small group of local gymnasts, VBAGC started as a casual meetup and quickly
 is to support adults in staying active, building strength, learning new skills, and connecting with a fun, encouraging community. No tryouts. No coaching. Just self-guided practice and good vibes.
 
 ## 🕒 We meet every Sunday
-6:30–8:30 PM at World Class Gymnastics Too in Suffolk, VA. Come stretch, tumble, swing, or just move at your own pace!
+6:30–8:30 PM at [World Class Gymnastics Too](https://maps.app.goo.gl/MApyPnr39rzwTv716) in Suffolk, VA. Come stretch, tumble, swing, or just move at your own pace!
 
 ## 💬 Just show up
 we’re always excited to welcome new members! Don’t be shy. Most of us are adults who’ve been out of the sport for years (or decades) or new to the sport altogether, and we totally get what it’s like to start again. You’re not alone—we’re all here to have fun and support each other.
