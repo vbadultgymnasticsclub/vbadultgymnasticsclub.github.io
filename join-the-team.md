@@ -4,7 +4,7 @@ permalink: /join-the-team--->
 
 # Join The Team
 
-We’re a welcoming, community-based adult gymnastics club open to all experience levels—no tryouts, no pressure! Whether you're brand new or returning after a break, you're invited to train with us. <b>Just show up -- we're always looking for new members</b> (but check our Instagram for holiday/weather closures).
+We’re a welcoming, community-based adult gymnastics club open to all experience levels—no tryouts, no pressure! Whether you're brand new or returning after a break, you're invited to train with us. <b>Just show up -- we're always looking for new members</b>.
 
 ### 🕕 Practice Info
 When: Sundays, 6:30–8:30 PM
