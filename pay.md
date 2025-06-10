@@ -4,6 +4,8 @@ permalink: /pay--->
 
 ## Payment Methods
 
+Practice dues keep our nonprofit alive! Every single one of our staff is a volunteer. Dues go directly to our monthly facility rent and insurance policy. We keep prices as low as possible to break even!
+
 ### 💳 Online Payments
 - **Square**: Accepts credit cards, Apple Pay, Google Pay, and CashApp. Note: A 5% service fee applies.
   - [Trial Payment](https://square.link/u/ucWyyqBL)
