@@ -22,6 +22,18 @@ Join our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) for updates
 
 Follow us on [Instagram](https://www.instagram.com/vbadultgymnasticsclub) for team highlights and announcements (including closures for holidays/bad weather)
 
+<br />
+
+### What to Wear 👕
+
+Athletic wear you can move in (leggings, shorts, tank tops, etc.)
+
+Barefoot, grip socks, or clean cheer/tumbling shoes (no street shoes on equipment)
+
+Hair tied back
+
+Avoid loose jewelry for safety!
+
 <img width="685" alt="Screenshot 2025-06-09 at 4 32 49 PM" src="https://github.com/user-attachments/assets/a1d6caa3-481f-488b-8442-ba9ac6ef5679" />
 
 
