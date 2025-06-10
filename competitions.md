@@ -4,7 +4,7 @@ permalink: /competitions--->
 
 # Competitions
 
-We are a proud member of the NAIGC (National Association of Intercollegiate Gymnastics Clubs), a national organization that supports club-level gymnastics for adults and college students across the U.S. NAIGC offers competition opportunities for adults of all levels. Competition is not required to be part of our cub.
+We are a proud member of the [NAIGC (National Association of Intercollegiate Gymnastics Clubs)](https://naigc.org/), a national organization that supports club-level gymnastics for adults and college students across the U.S. NAIGC offers competition opportunities for adults of all levels. Competition is not required to be part of our cub.
 
 The NAIGC offers competition in Women's Artistic Gymnastics (WAG), Men's Artistic Gymnastics (MAG), Tumbling & Trampoline (T&T), and Decathlon disciples of all experience levels. See the [competition rules](https://naigc.org/rules/) for more information on leveling and code of points.
 
