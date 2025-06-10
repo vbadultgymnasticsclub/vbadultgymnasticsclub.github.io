@@ -2,7 +2,7 @@
 title: "Contact"
 permalink: /contact--->
 # Contact Us
-All official announcements and team discussions are on our GroupMe page. Please join [here](https://groupme.com/join_group/87617300/U5zsqMLk).
+All official announcements and team discussions are on our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) page.
 
 Email: [vbadultgymnasticsclub@gmail.com](mailto:vbadultgymnasticsclub@gmail.com)
 
