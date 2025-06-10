@@ -20,7 +20,7 @@ Pay the [Trial Fee](https://checkout.square.site/merchant/MLP80EWDW4CD5/checkout
 
 Join our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) for updates
 
-Follow us on [Instagram](https://www.instagram.com/vbadultgymnasticsclub) for team highlights and announcements.
+Follow us on [Instagram](https://www.instagram.com/vbadultgymnasticsclub) for team highlights and announcements (including closures for holidays/bad weather)
 
 <img width="685" alt="Screenshot 2025-06-09 at 4 32 49 PM" src="https://github.com/user-attachments/assets/a1d6caa3-481f-488b-8442-ba9ac6ef5679" />
 
