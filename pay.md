@@ -13,10 +13,6 @@ Practice dues keep our nonprofit alive! Every single one of our staff is a volun
   - Monthly Payment (4 Sundays) [regular](https://square.link/u/XpO6LrDI) and [discounted](https://square.link/u/7zpzmD9Q)
   - Monthly Payment (5 Sundays) [regular](https://square.link/u/Gvg9FSeI) and [discounted](https://square.link/u/9yVb66ld)
   - [Custom Payment](https://square.link)
- 
- <ul class="downloads">
-    <li><a href="https://square.link/u/ucWyyqBL"><strong>Trial</strong></a></li>
-</ul>
 
 ### 💰 Direct Transfers
 - **Cash**: accepted in person at the beginning of practice
