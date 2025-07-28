@@ -32,7 +32,7 @@ Please return all equipment to its place
 ## 📅 Closures & Updates
 We do not practice on major holidays or during World Class Gymnastics Too’s extended closures.
 Check our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) for real-time updates on closures and team announcements.
-We also post our closures and most public announcements on [Instagram](https://www.instagram.com/vbadultgymnasticsclub/).
+We also post our closures and public announcements on [Instagram](https://www.instagram.com/vbadultgymnasticsclub/).
 
 
 <img 
