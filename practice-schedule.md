@@ -3,7 +3,7 @@ title: "Practice Schedule"
 permalink: /practice-schedule--->
 
 ## 🏋️‍♀️ Practice Schedule
-When: Every Sundays, 6:30–8:30 PM 
+When: Every Sundays, 6:30–8:30 PM
 
 Where: World Class Gymnastics Too, [5196 Nansemond Pkwy, Suffolk, VA 23435](https://maps.app.goo.gl/MApyPnr39rzwTv716)
 
