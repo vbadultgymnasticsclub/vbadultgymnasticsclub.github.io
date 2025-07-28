@@ -14,8 +14,8 @@ Practice dues keep our nonprofit alive! Every single one of our staff is a volun
   - [4-practice pack](https://square.link/u/A7xN8WL8)**
   - [Custom Payment/Donate](https://square.link/u/wGzHffft)
 
-* discount group includes active duty military, primary caretaker of children, healthcare worker, coach, teacher, ages 50+
-** buy 4 practices at once and receive a punch card, must be used up within 6 weeks
+\* discount group includes active duty military, primary caretaker of children, healthcare worker, coach, teacher, ages 50+
+\** buy 4 practices at once and receive a punch card, must be used up within 6 weeks
 
 ### 💰 Direct Transfers
 - **Cash**: accepted in person at the beginning of practice
