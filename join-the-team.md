@@ -7,7 +7,7 @@ permalink: /join-the-team--->
 We’re a welcoming, community-based adult gymnastics club open to all experience levels—no tryouts, no pressure! Whether you're brand new or returning after a break, you're invited to train with us. <b>Just show up -- we're always looking for new members</b>.
 
 ### 🕕 Practice Info
-When: Every Sunday, 6:30–8:30 PM
+When: Every Sunday, 6:30–8:30 PM, Group Stretch followed by Open Gym practice
 
 Where: [World Class Gymnastics Too](https://maps.app.goo.gl/WeeFDnk2yMAJmSaF6) (Suffolk, VA)
 
