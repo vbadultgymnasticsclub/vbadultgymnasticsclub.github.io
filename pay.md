@@ -8,11 +8,11 @@ Practice dues keep our nonprofit alive! Every single one of our staff is a volun
 
 ### 💳 Online Payments
 - **Square**: Accepts credit cards, Apple Pay, Google Pay, and CashApp. Note: A 5% service fee applies.
-  - [Trial Payment](https://square.link/u/ucWyyqBL)
-  - [Drop-in Fee](https://square.link/u/Ru9RugPL)
-  - Monthly Payment (4 Sundays) [regular](https://square.link/u/XpO6LrDI) and [discounted](https://square.link/u/7zpzmD9Q)
-  - Monthly Payment (5 Sundays) [regular](https://square.link/u/Gvg9FSeI) and [discounted](https://square.link/u/9yVb66ld)
-  - [Custom Payment](https://square.link)
+  - [Trial Payment](https://square.link/u/uMeJqM49)
+  - [Drop-in Fee](https://square.link/u/Gt1HyNWs)
+  - [Drop-in Fee (discounted)](https://square.link/u/PkOSutrE)
+  - [4-practice pack](https://square.link/u/A7xN8WL8)
+  - [Custom Payment/Donate](https://square.link/u/wGzHffft)
 
 ### 💰 Direct Transfers
 - **Cash**: accepted in person at the beginning of practice
