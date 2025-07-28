@@ -20,7 +20,7 @@ Sign the [Waiver](https://docs.google.com/forms/d/e/1FAIpQLSdMvfkJ21OISbY_ON44Mi
 
 Pay the [Trial Fee](https://checkout.square.site/merchant/MLP80EWDW4CD5/checkout/AP6UEU6QKDSXTDMAJH37GEC2)
 
-Join our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) for updates
+Join our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) for official team updates and discussions.
 
 Follow us on [Instagram](https://www.instagram.com/vbadultgymnasticsclub) for team highlights and announcements (including closures for holidays/bad weather)
 
