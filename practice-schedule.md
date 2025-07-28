@@ -7,7 +7,7 @@ When: Every Sundays, 6:30–8:30 PM
 
 Where: World Class Gymnastics Too, [5196 Nansemond Pkwy, Suffolk, VA 23435](https://maps.app.goo.gl/MApyPnr39rzwTv716)
 
-Please do not message us asking if there is practice. There is ALWAYS practice unless we announce cancellation. See below for where to check for cancellations.
+<b>Please do not message us asking if there is practice. There is ALWAYS practice unless we announce cancellation. See "Closures & Updates" section below.</b>
 
 ## 💰 Pricing
 Trial: $15 first time
