@@ -20,6 +20,7 @@ Practice dues keep our nonprofit alive! Every single one of our staff is a volun
 
 ### 💰 Direct Transfers
 - **Cash**: accepted in person at the beginning of practice
+- **Check**: made out to <b>Virginia Beach Adult Gymnastics Club</b>
 - **Zelle**: Send payments to vbadultgymnasticsclub@gmail.com.
 - **Venmo**: @vbagc. MUST add an additional 1.9% service fee + $0.10 per transaction.
 
