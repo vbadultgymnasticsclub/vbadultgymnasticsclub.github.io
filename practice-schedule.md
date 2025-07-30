@@ -10,11 +10,11 @@ Where: World Class Gymnastics Too, [5196 Nansemond Pkwy, Suffolk, VA 23435](http
 <b>Please do not message us asking if there is practice. There is ALWAYS practice unless we announce cancellation. See "Closures & Updates" section below.</b>
 
 ## 💰 Pricing
-Trial: $15 first time
+Trial: $20 first time
 
-Drop-in each time: $20 per practice, $15 for discount group*
+Drop-in each time: $25 per practice, $20 for discount group*
 
-Monthly: $70/month (one practice per week), $60/month discount group*
+4-Practice Pack: $72 for a punch card containing 4 practices ($18/practice), must be used up within 6 weeks 
 
 *_students, teachers, primary caretakers, active military, healthcare workers, ages 50+_
 
