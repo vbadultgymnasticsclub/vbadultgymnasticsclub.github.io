@@ -18,7 +18,7 @@ Please DO NOT message us asking if there is practice. There is ALWAYS practice u
 ### ✅ Before your first practice
 Sign the [Waiver](https://docs.google.com/forms/d/e/1FAIpQLSdMvfkJ21OISbY_ON44MipwZDLfCoWonHfgpJlznMz_Gwzkeg/viewform)
 
-Pay the [Trial Fee](https://checkout.square.site/merchant/MLP80EWDW4CD5/checkout/AP6UEU6QKDSXTDMAJH37GEC2)
+Pay the [Trial Fee](https://square.link/u/uMeJqM49)
 
 Join our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) for official team updates and discussions.
 
