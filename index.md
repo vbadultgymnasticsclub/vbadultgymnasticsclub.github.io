@@ -2,7 +2,7 @@
 The Virginia Beach Adult Gymnastics Club (VBAGC) is a 501(c)3 nonprofit organization and community for adults who love to move, flip, and have fun—whether you're a former gymnast or trying it for the first time! We are the ONLY adult gymnastics team in the Hampton Roads region!
 
 ## 🏗️ Founded in 2022 
-by a small group of local gymnasts, VBAGC started as a casual meetup and quickly grew into a welcoming space for adults of all ages and backgrounds. We believe gymnastics should be accessible, inclusive, and pressure-free.
+by Gina Dean with a small group of local gymnasts, VBAGC started as a casual meetup and quickly grew into a welcoming space for adults of all ages and backgrounds. We believe gymnastics should be accessible, inclusive, and pressure-free.
 
 ## 🎯 Our mission 
 is to support adults in staying active, building strength, learning new skills, and connecting with a fun, encouraging community. No tryouts. No coaching. Just self-guided practice and good vibes.
