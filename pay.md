@@ -13,8 +13,9 @@ Practice dues keep our nonprofit alive! Every single one of our staff is a volun
 <br>
 \** buy 4 practices at once and receive a punch card, must be used up within 6 weeks
 
-### 💰 Donations
+### 💰 Direct Transfers
+- **Cash**: always accepted
 - **Check**: made out to <b>Virginia Beach Adult Gymnastics Club</b>
 - **Zelle**: Send payments to vbadultgymnasticsclub@gmail.com
-- **Venmo**: @vbagc
+- **Venmo**: @vbagc (MUST add 1.9% + $0.10 for processing fee)
 
