@@ -13,12 +13,13 @@ Where: [World Class Gymnastics Too](https://maps.app.goo.gl/WeeFDnk2yMAJmSaF6) (
 
 Please DO NOT message us asking if there is practice. There is ALWAYS practice unless we announce cancellation. See bottom of [practice schedule](https://vbadultgymnasticsclub.github.io/practice-schedule) for where to check for cancellations.
 
+Check out our [getting started guide](https://www.instagram.com/p/DZ-T8LEEZWe/?utm_source=ig_web_copy_link&cplk=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)
+
 <br />
 
 ### ✅ Before your first practice
-Sign the [Waiver](https://docs.google.com/forms/d/e/1FAIpQLSdMvfkJ21OISbY_ON44MipwZDLfCoWonHfgpJlznMz_Gwzkeg/viewform)
 
-Pay the [Trial Fee](https://square.link/u/uMeJqM49)
+Pay for practice and sign the waiver [here](https://vbagc-registration.vbadultgymnasticsclub.workers.dev/)
 
 Join our [GroupMe](https://groupme.com/join_group/87617300/U5zsqMLk) for official team updates and discussions.
 
