@@ -6,13 +6,8 @@ permalink: /pay--->
 
 Practice dues keep our nonprofit alive! Every single one of our staff is a volunteer. Dues go directly to our monthly facility rent and insurance policy. We keep prices as low as possible to break even!
 
-### 💳 Online Payments
-- **Square**: Accepts credit cards, Apple Pay, Google Pay, and CashApp. Note: A 5% service fee applies.
-  - [Trial Payment](https://square.link/u/uMeJqM49)
-  - [Drop-in Fee](https://square.link/u/Gt1HyNWs)
-  - [Drop-in Fee (discounted)](https://square.link/u/PkOSutrE)*
-  - [4-practice pack](https://square.link/u/A7xN8WL8)**
-  - [Custom Payment/Donate](https://square.link/u/wGzHffft)
+### 💳 Pay for Practice
+[Click here to sign in and pay for practice](https://vbagc-registration.vbadultgymnasticsclub.workers.dev/)
 
 \* discount group includes active duty military, primary caretaker of children, healthcare worker, coach, teacher, ages 50+
 <br>
