@@ -12,7 +12,7 @@ We’re a welcoming, community-based adult gymnastics club open to all experienc
 When: Every Sunday, 6:30–8:30 PM, Group Stretch followed by Open Gym practice
 
 Where: [World Class Gymnastics Too](https://maps.app.goo.gl/WeeFDnk2yMAJmSaF6) (Suffolk, VA)
-*we rent time and space to practice at the World Class Suffolk facility. We are not affiliated with the gym programming. 
+<br>*we rent time and space to practice at the World Class Suffolk facility. We are not affiliated with the gym programming. 
 
 Please DO NOT message us asking if there is practice. There is ALWAYS practice unless we announce cancellation. See bottom of [practice schedule](https://vbadultgymnasticsclub.github.io/practice-schedule) for where to check for cancellations.
 
