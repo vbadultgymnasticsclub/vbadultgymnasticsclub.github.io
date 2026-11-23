@@ -4,7 +4,9 @@ permalink: /join-the-team--->
 
 # Join The Team
 
-We’re a welcoming, community-based adult gymnastics club open to all experience levels—no tryouts, no pressure! Whether you're brand new or returning after a break, you're invited to train with us. <b>Just show up -- we're always looking for new members</b>. You must be 18+ years old to join, and we recommend that you have at least some gymnastics background or experience, as we don't have a coach (it's open gym practice only).
+We’re a welcoming, community-based adult gymnastics club open to all experience levels—no tryouts, no pressure! Whether you're brand new or returning after a break, you're invited to train with us. <b>Just show up -- we're always looking for new members</b>. 
+
+<b>You must be 18+ years old to join</b>, and we recommend that you have at least some gymnastics background or experience, as we don't have a coach (it's open gym practice only).
 
 ### 🕕 Practice Info
 When: Every Sunday, 6:30–8:30 PM, Group Stretch followed by Open Gym practice
